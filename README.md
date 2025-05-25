@@ -127,10 +127,12 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 
 ## OUTPUT
 
-![319538207-09a6887d-9efa-4f6c-b0f1-cebfbf92ea6d](https://github.com/user-attachments/assets/c5f188fd-316e-414b-87aa-a37721584996)
+![image](https://github.com/user-attachments/assets/9d8cc4d4-c256-48a2-9601-e47d391041e2)
 
 
-![319538261-88576617-5f52-4771-b06a-23c88a146bf7](https://github.com/user-attachments/assets/b7c741ea-a01d-412a-9812-9b9a724ea13f)
+
+![image](https://github.com/user-attachments/assets/44d218c9-8523-40e3-bc9e-52a4070d7172)
+
 
 
 # RESULT:
